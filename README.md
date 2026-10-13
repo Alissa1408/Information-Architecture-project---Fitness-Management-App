@@ -1,7 +1,10 @@
 This project focuses on the information architecture and user experience design for the Gym Workout Planner App, an application designed to simplify, optimize, and guide the creation, management, and consultation of gym workout plans. The main goal of the application is to facilitate the experience for both end-users and personal trainers, providing a clear framework for tracking progress and browsing exercises. The developed design documentation is structured into four fundamental sections.
+
 The first document is dedicated to the study of Personas (Buyer Personas). In this phase, hypothetical user profiles and human types representing the application's target audience were defined. The analysis allowed for an in-depth mapping of the needs, main goals, motivations, and concerns of the different profiles that will use the app, ensuring that every design choice is guided by the real needs of the end-user.
+
 The second document defines the Functional Tree (Functional Map) of the system. Through a hierarchical breakdown, the structure starts from the primary function of the application and expands into various macro-functions and sub-functions.
 The third document develops the Ontology and Taxonomy of the application domain. This section covers the extraction and conceptual organization of all the terms mentioned within the functions. A formal distinction is made between the system's main entities and their relative attributes, defining the schema of logical and structural relationships connecting the various concepts to each other.
+
 Finally, the fourth document presents the Wireframes of the user interface. These are schematic drafts of the application's key screens, enriched with the brand's color palette. The wireframes illustrate the layout of visual elements, the hierarchy of information, and the navigation flows designed for the user.
 
 Click here: https://miro.com/app/board/uXjVHSV3iMk=/?share_link_id=92412519616
